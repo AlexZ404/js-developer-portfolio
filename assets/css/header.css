@@ -18,6 +18,16 @@
     background-image: url('../img/icons/header.svg');
 }
 
+.header .pseudo-after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 4rem;
+    height: 2.5rem;
+    cursor: pointer;
+    z-index: 10;
+}
+
 .header .photo {
     width: 200px;
     height: 200px;
